@@ -1,0 +1,11 @@
+series,name,freq,block_g,block_s,block_r,block_l,months_lag
+ibved,ibved,m,1,0,0,1,1
+gdp,gdp,q,1,0,1,0,3
+cpi,cpi,m,1,0,0,0,0
+oil_price,oil_price,m,1,0,0,1,0
+m2,m2,m,1,0,1,0,0
+us_cpi,us_cpi,m,1,0,1,0,0
+unemployment,Personal Income,m,1,0,1,0,1
+rate,rate,m,1,0,0,0,0
+exchange_rate,exchange_rate,m,1,0,0,0,0
+PMI,PMI,m,1,0,0,0,0
