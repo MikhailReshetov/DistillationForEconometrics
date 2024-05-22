@@ -1,0 +1,2 @@
+ERROR: dependencies 'gh', 'lifecycle' are not available for package 'usethis'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/usethis'

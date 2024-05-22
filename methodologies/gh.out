@@ -1,0 +1,2 @@
+ERROR: dependency 'httr2' is not available for package 'gh'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/gh'

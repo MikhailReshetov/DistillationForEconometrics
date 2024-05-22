@@ -1,0 +1,12 @@
+* installing *source* package 'bslib' ...
+** пакет 'bslib' удачно распакован, MD5 sums проверены
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Ошибка в loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) :
+  namespace 'htmltools' 0.3.6 is being loaded, but >= 0.5.4 is required
+Вызовы: <Anonymous> ... withCallingHandlers -> loadNamespace -> namespaceImport -> loadNamespace
+Выполнение остановлено
+ERROR: lazy loading failed for package 'bslib'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/bslib'

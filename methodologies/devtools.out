@@ -1,0 +1,2 @@
+ERROR: dependencies 'usethis', 'lifecycle', 'pkgbuild', 'pkgdown', 'pkgload', 'rcmdcheck', 'sessioninfo' are not available for package 'devtools'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/devtools'

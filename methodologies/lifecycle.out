@@ -1,0 +1,12 @@
+* installing *source* package 'lifecycle' ...
+** пакет 'lifecycle' удачно распакован, MD5 sums проверены
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Ошибка в loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) :
+  namespace 'rlang' 0.4.11 is being loaded, but >= 1.0.6 is required
+Вызовы: <Anonymous> ... withCallingHandlers -> loadNamespace -> namespaceImport -> loadNamespace
+Выполнение остановлено
+ERROR: lazy loading failed for package 'lifecycle'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/lifecycle'

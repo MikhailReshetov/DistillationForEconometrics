@@ -1,0 +1,2 @@
+ERROR: dependencies 'pkgbuild', 'sessioninfo' are not available for package 'rcmdcheck'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/rcmdcheck'

@@ -1,0 +1,2 @@
+ERROR: dependency 'bslib' is not available for package 'pkgdown'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/pkgdown'

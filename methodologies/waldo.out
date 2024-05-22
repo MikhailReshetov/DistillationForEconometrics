@@ -1,0 +1,11 @@
+* installing *source* package 'waldo' ...
+** пакет 'waldo' удачно распакован, MD5 sums проверены
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+Ошибка в loadNamespace(i, c(lib.loc, .libPaths()), versionCheck = vI[[i]]) :
+  namespace 'rlang' 0.4.11 is being loaded, but >= 1.0.0 is required
+Вызовы: <Anonymous> ... withCallingHandlers -> loadNamespace -> namespaceImport -> loadNamespace
+Выполнение остановлено
+ERROR: lazy loading failed for package 'waldo'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/waldo'

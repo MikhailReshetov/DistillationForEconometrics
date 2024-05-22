@@ -1,0 +1,13 @@
+* installing *source* package 'callr' ...
+** пакет 'callr' удачно распакован, MD5 sums проверены
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Ошибка в loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) :
+  namespace 'processx' 3.5.2 is being loaded, but >= 3.6.1 is required
+Вызовы: <Anonymous> ... namespaceImportFrom -> asNamespace -> loadNamespace
+Выполнение остановлено
+ERROR: lazy loading failed for package 'callr'
+* removing 'C:/Users/User/anaconda3/Lib/R/library/callr'
+* restoring previous 'C:/Users/User/anaconda3/Lib/R/library/callr'
